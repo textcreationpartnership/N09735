@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <body>
          <div type="treatise">
-            <pb facs="tcp:012389_0000_0F894412280554B0"/>
-            <pb facs="tcp:012389_0001_0F894413D2C724E8" rendition="simple:additions"/>
+            <pb facs="unknown:012389_0000_0F894412280554B0"/>
+            <pb facs="unknown:012389_0001_0F894413D2C724E8"
+                rendition="simple:additions"/>
             <head>A FEW REASONS IN FAVOUR OF VENDUES.</head>
             <p>
                <seg rend="decorInit">I</seg>T has always been considered as a general rule, That trade will regulate itself; and this being granted, Ven<g ref="char:EOLhyphen"/>dues or Auctions will be found rather advantageous than destructive: For, should it be said, that great quantities of goods are by this means sold to a loss, let it be consi<g ref="char:EOLhyphen"/>dered, that this must be owing to the too great quantities imported, which must either be kept on hand a long time, or be disposed of in this manner.</p>
